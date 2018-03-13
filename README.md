@@ -3,3 +3,5 @@ SPECK——a lossless compression method for 3-D color images is proposed. First
 
 # Results
 ![Alt text](https://github.com/paulpanwang/SPECK/blob/master/result/%E5%8E%8B%E7%BC%A9.png)
+![Alt text](https://github.com/paulpanwang/SPECK/blob/master/result/%E5%8E%8B%E7%BC%A92.png)
+![Alt text](https://github.com/paulpanwang/SPECK/blob/master/result/%E5%8E%8B%E7%BC%A93.png)
